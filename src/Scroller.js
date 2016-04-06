@@ -1349,3 +1349,4 @@ var Scroller;
 	}
 
 })();
+module.exports = Scroller;
